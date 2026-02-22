@@ -1,21 +1,23 @@
 # [Project Name]
 
-[![Figma Design](https://img.shields.io/badge/Figma-Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/dxmk6GxD4NSNqaK8gVqPzW/Untitled?node-id=0-1&t=DSntujgLKJWfafXp-1)
+[![Figma Design](https://img.shields.io/badge/Figma-Design_File-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/dxmk6GxD4NSNqaK8gVqPzW/Untitled?node-id=0-1&m=dev&t=DSntujgLKJWfafXp-1)
+[![Figma Prototype](https://img.shields.io/badge/Figma-Live_Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/dxmk6GxD4NSNqaK8gVqPzW/Untitled?node-id=0-1&t=DSntujgLKJWfafXp-1)
 
 ---
 
-## 🎨 UI/UX Design
+## 🎨 UI/UX Design & Architecture
 
-As part of my workflow as a **Computer Science & Design** student, I prioritized a clean and intuitive user experience. The design was built in **Figma** to ensure a seamless transition from concept to code.
+As a **Computer Science & Design** student, I focused on bridging the gap between aesthetics and functionality. The design was built in **Figma** using a component-driven approach to ensure scalability and ease of development.
 
-### 🔗 Explore the Design
-You can interact with the live prototype to see the user flow, component behavior, and responsiveness:
+### 🔗 Project Assets
+| Asset Type | Link |
+| :--- | :--- |
+| **🎨 Interactive Prototype** | [Click to Play Prototype](https://www.figma.com/proto/dxmk6GxD4NSNqaK8gVqPzW/Untitled?node-id=0-1&t=DSntujgLKJWfafXp-1) |
+| **🛠️ Figma Design File** | [View Design & Assets](https://www.figma.com/design/dxmk6GxD4NSNqaK8gVqPzW/Untitled?node-id=0-1&m=dev&t=DSntujgLKJWfafXp-1) |
 
-> **[Interactive Prototype Link](https://www.figma.com/proto/dxmk6GxD4NSNqaK8gVqPzW/Untitled?node-id=0-1&t=DSntujgLKJWfafXp-1)**
-
-### ✨ Key Design Highlights
-* **Modern Interface:** Focused on accessibility and ease of use.
-* **Component-Based:** Built using reusable Figma components for design consistency.
-* **User Flow:** Mapped out for clear navigation and efficient task completion.
+### ✨ Design Highlights
+* **Developer Handoff:** Organized with Dev Mode in mind for clean CSS/layout extraction.
+* **Component-Based:** Built using reusable styles for consistent UI across all pages.
+* **UX Focus:** Optimized user flows for efficiency and accessibility.
 
 ---
