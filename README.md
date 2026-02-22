@@ -1,23 +1,34 @@
-# [Project Name]
+# My Design Portfolio 🎨
 
-[![Figma Design](https://img.shields.io/badge/Figma-Design_File-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/dxmk6GxD4NSNqaK8gVqPzW/Untitled?node-id=0-1&m=dev&t=DSntujgLKJWfafXp-1)
-[![Figma Prototype](https://img.shields.io/badge/Figma-Live_Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/dxmk6GxD4NSNqaK8gVqPzW/Untitled?node-id=0-1&t=DSntujgLKJWfafXp-1)
+A collection of UI/UX designs and interactive prototypes created using **Figma**, focusing on intuitive user flows and modern aesthetics.
 
 ---
 
-## 🎨 UI/UX Design & Architecture
+## 🏥 Organ Donation System
+This project focuses on a clean, trustworthy interface for connecting donors with recipients, ensuring a seamless and empathetic user journey.
 
-As a **Computer Science & Design** student, I focused on bridging the gap between aesthetics and functionality. The design was built in **Figma** using a component-driven approach to ensure scalability and ease of development.
-
-### 🔗 Project Assets
-| Asset Type | Link |
+| Asset | Link |
 | :--- | :--- |
-| **🎨 Interactive Prototype** | [Click to Play Prototype](https://www.figma.com/proto/dxmk6GxD4NSNqaK8gVqPzW/Untitled?node-id=0-1&t=DSntujgLKJWfafXp-1) |
+| **✨ Interactive Prototype** | [Explore Prototype](https://www.figma.com/proto/dxmk6GxD4NSNqaK8gVqPzW/Untitled?node-id=0-1&t=DSntujgLKJWfafXp-1) |
 | **🛠️ Figma Design File** | [View Design & Assets](https://www.figma.com/design/dxmk6GxD4NSNqaK8gVqPzW/Untitled?node-id=0-1&m=dev&t=DSntujgLKJWfafXp-1) |
 
-### ✨ Design Highlights
-* **Developer Handoff:** Organized with Dev Mode in mind for clean CSS/layout extraction.
-* **Component-Based:** Built using reusable styles for consistent UI across all pages.
-* **UX Focus:** Optimized user flows for efficiency and accessibility.
+**Key Focus:** Accessibility, Trust-building UI, and simplified registration flows.
 
 ---
+
+## 🚆 Train Ticket Booking System
+A high-efficiency UI designed for quick navigation, search functionality, and a streamlined booking process for travelers.
+
+| Asset | Link |
+| :--- | :--- |
+| **✨ Interactive Prototype** | [Explore Prototype](https://www.figma.com/proto/cZH3ktgjMoSp0e9WlQ5GQR/Untitled?node-id=0-1&t=PNIiosyzdfqIXAdu-1) |
+| **🛠️ Figma Design File** | [View Design & Assets](https://www.figma.com/design/cZH3ktgjMoSp0e9WlQ5GQR/Untitled?node-id=0-1&m=dev&t=PNIiosyzdfqIXAdu-1) |
+
+**Key Focus:** Real-time data visualization, search filters, and mobile-responsive layouts.
+
+---
+
+### 🚀 Technical Skills Shown
+* **UX Research:** Mapping out user journeys for both medical and travel sectors.
+* **Component-Based Design:** Using reusable Figma components for consistent branding.
+* **Developer Handoff:** Clean layers and Dev-Mode ready files for efficient coding.
